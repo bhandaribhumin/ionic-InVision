@@ -19,6 +19,9 @@
       "ion-vision": [
         "dist/ion-vision/ion-vision",
         "dist/ion-vision"
+      ],
+      "@angular/*": [
+        "./node_modules/@angular/*"
       ]
     }
   },

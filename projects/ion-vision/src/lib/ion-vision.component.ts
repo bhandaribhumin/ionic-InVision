@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-IonVision',
+  selector: 'ionic-in-vision',
   template: `
     <p>
       ion-vision works!

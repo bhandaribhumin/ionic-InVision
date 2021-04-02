@@ -40,3 +40,8 @@ ng build my-lib --prod
 cd dist/my-lib
 npm publish
 ```
+
+
+## Styleguide
+
+https://angular.io/guide/styleguide#style-05-02

@@ -7,7 +7,7 @@
       "projectType": "library",
       "root": "projects/ion-vision",
       "sourceRoot": "projects/ion-vision/src",
-      "prefix": "lib",
+      "prefix": "ionic",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-ng-packagr:build",
